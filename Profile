@@ -1,0 +1,94 @@
+<html>
+
+<head>
+
+<title>my profile
+
+</title> </head>
+
+<body>
+
+<table>
+
+<tr>
+
+<td> <img src = "C:\Users\T Rakesh\Downloads\IMG_20220906_125150.jpg" width=30%>
+</td>
+
+<td>
+<h1 style = "color :  red"> <u>senior web developer </u> </h1> : <h3>specializating in front end development.<br> experienced with all stages of development cytcle for dynamic with web projects <br> well-versed in numerious programming Languages including PHP, HTML, CSS,PYTHON, <br> strong background in project management and customer relations.
+</h3>
+</td>
+</tr>
+<tr>
+<td><h1 style = "color : blue;font-size : 40px">Rocky</h1>
+<h3>
+phone no: <br>
+
+8523045612 <br>
+
+E-mail: <br>
+
+rocky@gmail.com <br>
+
+Linkedin: <br> Rocky 101<br></h3>
+
+<h3 style = style ="color : pink"> <u>SKILL HIGHLIGTS: </u></h3><br>
+
+<ul>
+
+<li>Skill highlights </li> 
+<li>project management</li>
+
+<li> strong decision maker </li>
+ <li>creative design </li>
+
+<li> serivice focused </li>
+
+<li> innovation </li> 
+<li>serivce focused </li>
+
+<li>complex problem solver </li>
+  <li> creative thinker </li>
+
+</ul>
+
+<h3  style = "color : blue" >Languages </h3> <br>
+
+telugu <br>
+
+english <br>
+
+hindi <br></td>
+
+
+<td>
+
+<h3  style = "color : blue "> experience </h3>
+
+<li>cooperte with design to create clean interfaces and simple and expernce </t
+
+<li>develop the given concept</li>
+
+<li> work harder </li>
+
+</ul>
+
+<h3  style = "color : blue"> education </h3><br>
+
+B tech in computer <br
+
+<h3  style = "color : blue"> certifications </h3><br>
+
+in pytrhon <br>
+
+<h3  style = "color : red"> references </h3><br>
+
+reeference avalible on request
+
+</td></tr>
+</table>
+
+</body>
+
+</html>
