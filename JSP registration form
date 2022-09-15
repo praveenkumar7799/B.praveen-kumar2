@@ -1,0 +1,11 @@
+and a half' for
+
+urs worked in
+
+9 10
+
+11
+
+10 11 12
+
+of 40 hours. e given a list Your program should display the following menu of alternatives: employees of Please type 1 for "First Class" and Please type 2 for "Economy". ompany, the If the person types 1, your program should assign a seat in the of hours first-class section (seats 1-5). If the person types 2, your program employee should assign a seat in the economy section (seats 6-10). Your last week program should print a boarding pass indicating the person's seat ourly rate of number and whether it is in the first-class or economy section of ployee. Your the plane. Use a one-dimensional array to represent the seating should chart of the plane. Initialize all the elements of the array to 0 to this indicate that all the seats are empty. As each seat is assigned, set on for each the corresponding elements of the array to 1 to indicate that the
